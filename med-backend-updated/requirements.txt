@@ -1,0 +1,16 @@
+Flask==3.0.3
+gunicorn==23.0.0
+openai==1.56.1
+python-dotenv==1.0.1
+quart
+hypercorn
+uvicorn
+httpx
+quart-cors
+PyMuPDF
+pandas
+cloudinary
+openpyxl
+aiomysql
+pymysql
+cryptography
